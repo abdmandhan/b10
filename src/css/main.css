@@ -8,3 +8,9 @@ body p {
     font-weight: bold;
     color: whitesmoke;
 }
+
+#header{
+    width: 1280px;
+    height: 500px;
+    background-color: aqua;
+}
