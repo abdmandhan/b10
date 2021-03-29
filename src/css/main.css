@@ -12,5 +12,7 @@ body p {
 #header{
     width: 1280px;
     height: 500px;
-    background-color: aqua;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
 }
