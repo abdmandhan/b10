@@ -2,15 +2,6 @@ body {
     background-color: red;
 }
 
-body p {
-    font-family: Poppins;
-    font-size: 30px;
-    font-weight: bold;
-    color: whitesmoke;
-}
-
-#header{
-    width: 1280px;
-    height: 500px;
-    background-color: aqua;
+body h1 {
+    background-color: blue;
 }
