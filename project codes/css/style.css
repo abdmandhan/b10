@@ -9078,10 +9078,7 @@ html {
   .menus .text {
     width: calc(100% - 80px);
     padding-left: 20px; }
-  
-  .menus .text a:hover {
-    background: #155724;
-  }
+
     .menus .text .buy {
       background: #50A027;
       width: 75px;
