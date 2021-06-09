@@ -8984,7 +8984,7 @@ h1, h2, h3, h4, h5,
       padding-left: 4em; } }
   @media (max-width: 991.98px) {
     .wrap-about {
-      padding-right: 3em !important; } }
+      padding-right: 100dp !important; } }
   @media (max-width: 767.98px) {
     .wrap-about {
       padding: 0 15px !important; } }
@@ -9605,7 +9605,7 @@ textarea.form-control {
       border-radius: 50%;
       background: rgba(255, 255, 255, 0.2); }
       .testimony-section .owl-dots .owl-dot.active {
-        background: #50A027; }
+        background: #69c53b; }
         .testimony-section .owl-dots .owl-dot.active:after {
           border-color: #50A027; }
 
