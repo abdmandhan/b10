@@ -9449,7 +9449,8 @@ textarea.form-control {
       -ms-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%); }
     .ftco-footer-social li a:hover {
-      color: #fff; }
+      color: #fff;
+    background-color: #0b2e13; }
 
 .footer-small-nav > li {
   display: inline-block; }
@@ -9972,7 +9973,8 @@ textarea.form-control {
 
 #header ul a:hover {
   font-weight: bold;
-  color: #0d7377;
+  color: #0b2e13;
+  text-decoration: underline;
 }
 
 .floating-btn {
